@@ -387,7 +387,8 @@
 ### 👦🏻 백엔드
 
 
-<img width="893" alt="스크린샷 2023-10-13 오전 12 00 39" src="https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/96872852/d780a52d-404d-4246-bbb0-b6871dc9563e">
+<img width="893" alt="스크린샷 2023-10-13 오전 12 00 39" src="https://github.com/Kusitms-28th-MeetUp-C/.github/assets/96872852/94b0d02e-19a9-40da-82a4-cc244b17a024">
+
 
 #### [ Blue/Green 아키텍처]
 
